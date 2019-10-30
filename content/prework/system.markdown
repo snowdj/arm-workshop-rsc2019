@@ -1,7 +1,7 @@
 ---
 title: Install/upgrade software
 author: ''
-date: '2018-12-21'
+date: "2019-01-16"
 slug: system
 categories: []
 tags: []
@@ -18,15 +18,15 @@ In this workshop, we will use R and [RStudio](https://www.rstudio.com/products/r
 
 ## Install R
 
-* The [latest version of R](https://cran.rstudio.com/) (3.5.1 "Feather Spray") is recommended. You can check your version from the R Console:
+* A [recent version of R](https://cran.rstudio.com/) (>= 3.5.1 "Feather Spray") is recommended. You can check your version from the R Console:
 
 
 ```r
-getRversion()
+R.version.string
 ```
 
 ```
-## [1] '3.5.1'
+## [1] "R version 3.5.1 (2018-07-02)"
 ```
 
 

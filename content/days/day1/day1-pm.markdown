@@ -1,8 +1,7 @@
 ---
 title: PM Session Overview
 
-date: 2018-09-09T00:00:00.000Z
-lastmod: 2018-09-09T00:00:00.000Z
+date: "2019-01-16"
 
 draft: false
 toc: true
@@ -16,4 +15,4 @@ The PM session will cover:
 
 - bookdown
 - blogdown
-- cohorts (TBD)
+- officer

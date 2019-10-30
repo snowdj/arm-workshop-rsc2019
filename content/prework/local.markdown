@@ -1,7 +1,7 @@
 ---
 title: Local setup
 author: ''
-date: '2018-12-21'
+date: "2019-01-16"
 slug: local
 categories: []
 tags: []

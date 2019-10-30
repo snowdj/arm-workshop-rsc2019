@@ -1,8 +1,7 @@
 ---
 title: blogdown
 
-date: 2018-09-09T00:00:00.000Z
-lastmod: 2018-09-09T00:00:00.000Z
+date: "2019-01-16"
 
 draft: false
 toc: true
@@ -15,14 +14,69 @@ menu:
     weight: 7
 ---
 
+
+
+
 ## Slides {#slides}
 
-<!--[Link](../../../slides/blogdown.html)-->
+[Download slide .Rmd](../../../slides/blogdown.Rmd)
+
+<table class="table table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Key Slides </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> <a href="../../../slides/blogdown.html#1" style="     ">Full slide deck 🖼</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <a href="../../../slides/blogdown.html#outline" style="     ">Outline 🗒</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <a href="../../../slides/blogdown.html#start" style="     ">Get started ☁️ or 💻</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <a href="../../../slides/blogdown.html#publish" style="     ">Publishing 🚀</a> </td>
+  </tr>
+</tbody>
+</table>
 
 
+## Activities {#activity}
 
-## Activity {#activity}
 
-## Stretch {#stretch}
+<table class="table table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Activity </th>
+   <th style="text-align:left;"> Time </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> <a href="../../../slides/blogdown.html#yourturn-1" style="     ">📩 Your turn #1: Gaze into your directory structure, and site</a> </td>
+   <td style="text-align:left;"> 🕥 05:00 minutes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <a href="../../../slides/blogdown.html#yourturn-2" style="     ">📩 Your turn #2: Edit the config.toml to customize your site</a> </td>
+   <td style="text-align:left;"> 🕥 05:00 minutes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <a href="../../../slides/blogdown.html#yourturn-3" style="     ">📩 Your turn #3: Edit some exampleSite content, save, and let 'LiveReload' preview your changes</a> </td>
+   <td style="text-align:left;"> 🕥 05:00 minutes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <a href="../../../slides/blogdown.html#yourturn-4" style="     ">📩 Your turn #4: Add new content</a> </td>
+   <td style="text-align:left;"> 🕥 05:00 minutes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <a href="../../../slides/blogdown.html#yourturn-5" style="     ">📩 Your turn #5: Deploy</a> </td>
+   <td style="text-align:left;"> 🕥 05:00 minutes </td>
+  </tr>
+</tbody>
+</table>
 
-## More {#more}
+## Enable Continuous Deployment with Netlify
+

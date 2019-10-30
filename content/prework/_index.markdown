@@ -1,7 +1,7 @@
 ---
 title: Welcome
 author: ''
-date: '2018-12-21'
+date: "2019-01-16"
 slug: welcome
 categories: []
 tags: []
@@ -20,7 +20,7 @@ This site is the official home for all information related to the 2019 Advanced 
 Please use the menus to the left to guide you through all the workshop set-up instructions, and notice the menu on the right with links for:
  
 <ul class="fa-ul">
-    <li><i class="fa-li fas fa-question-circle"></i><a href="https://community.rstudio.com/t/rstudio-conf-workshop-information/19670" target="_blank">Get trouble-shooting help</a></li>
+    <li><i class="fa-li fas fa-question-circle"></i><a href="https://community.rstudio.com/t/information-for-the-advanced-r-markdown-workshop-2019/20859" target="_blank">Get trouble-shooting help</a></li>
     <li><i class="fa-li fas fa-comments"></i><a href="https://gitter.im/arm-austin/Lobby" target="_blank">Ask questions</a></li>
     <li><i class="fa-li fas fa-bug"></i><a href="https://github.com/rstudio-education/arm-workshop-rsc2019/issues" target="_blank">Report issues</a></li>
     <li><i class="fa-li fas fa-edit"></i><a href="https://github.com/rstudio-education/arm-workshop-rsc2019/edit/master/content/prework/_index.md" target="_blank">Suggest an edit</a></li>
@@ -41,3 +41,5 @@ Jennifer Thompson <a href="https://jenthompson.me/" target="_blank"><i class="fa
 Jiena Gu <a href="https://www.jienamclellan.com/" target="_blank"><i class="fas fa-link"></i></a> <a href="https://github.com/jienagu" target="_blank"><i class="fab fa-github"></i></a> <a href="https://twitter.com/JoannaMelon" target="_blank"><i class="fab fa-twitter"></i></a>
 
 Hao Zhu <a href="https://haozhu233.github.io/" target="_blank"><i class="fas fa-link"></i></a> <a href="https://github.com/haozhu233" target="_blank"><i class="fab fa-github"></i></a> <a href="https://twitter.com/haozhu233" target="_blank"><i class="fab fa-twitter"></i></a>
+
+Eric Nantz <a href="https://r-podcast.org" target="_blank"><i class="fas fa-link"></i></a> <a href="https://github.com/rpodcast" target="_blank"><i class="fab fa-github"></i></a> <a href="https://twitter.com/thercast" target="_blank"><i class="fab fa-twitter"></i></a>

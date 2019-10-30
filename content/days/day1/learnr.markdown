@@ -1,8 +1,7 @@
 ---
 title: learnr
 
-date: 2018-09-09T00:00:00.000Z
-lastmod: 2018-09-09T00:00:00.000Z
+date: "2019-01-16"
 
 draft: false
 toc: true
@@ -15,14 +14,7 @@ menu:
     weight: 5
 ---
 
-## Slides {#slides}
+https://arm.rbind.io/slides/learnr.pdf
 
-<!--[Link](../../../slides/flexdashboard.html)-->
-
-
-
-## Activity {#activity}
-
-## Stretch {#stretch}
-
-## More {#more}
+Activity: https://appforiarteam.shinyapps.io/PlayR 
+Stretch: [jiena/demo.Rmd](../../../jiena/demo.Rmd)
